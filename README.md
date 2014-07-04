@@ -12,4 +12,5 @@ Yoshua Wakeham
 
 ## Future
 
-I intend to add a self-test routine at some point.
+* Probabilistic Fermat testing
+* Self-test routine
